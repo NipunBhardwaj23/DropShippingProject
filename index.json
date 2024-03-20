@@ -1,0 +1,72 @@
+{
+    "sections": {
+      "image_banner_7TRkex": {
+        "type": "image-banner",
+        "blocks": {
+          "heading_GTNU3a": {
+            "type": "heading",
+            "settings": {
+              "heading": "\"You've arrived at the doorway to delight!\"",
+              "heading_size": "h1"
+            }
+          },
+          "text_VHRqQz": {
+            "type": "text",
+            "settings": {
+              "text": "",
+              "text_style": "body"
+            }
+          }
+        },
+        "block_order": [
+          "heading_GTNU3a",
+          "text_VHRqQz"
+        ],
+        "settings": {
+          "image": "shopify:\/\/shop_images\/fashionable-man-by-textured-wall.jpg",
+          "image_overlay_opacity": 30,
+          "image_height": "medium",
+          "desktop_content_position": "middle-center",
+          "show_text_box": true,
+          "desktop_content_alignment": "center",
+          "color_scheme": "",
+          "image_behavior": "ambient",
+          "mobile_content_alignment": "center",
+          "stack_images_on_mobile": true,
+          "show_text_below": true
+        }
+      },
+      "featured-collection": {
+        "type": "featured-collection",
+        "settings": {
+          "title": "",
+          "heading_size": "h2",
+          "description": "",
+          "show_description": false,
+          "description_style": "body",
+          "collection": "all",
+          "products_to_show": 4,
+          "columns_desktop": 4,
+          "full_width": false,
+          "show_view_all": false,
+          "view_all_style": "solid",
+          "enable_desktop_slider": false,
+          "color_scheme": "scheme-1",
+          "image_ratio": "square",
+          "image_shape": "default",
+          "show_secondary_image": false,
+          "show_vendor": false,
+          "show_rating": false,
+          "enable_quick_add": false,
+          "columns_mobile": "2",
+          "swipe_on_mobile": false,
+          "padding_top": 0,
+          "padding_bottom": 68
+        }
+      }
+    },
+    "order": [
+      "image_banner_7TRkex",
+      "featured-collection"
+    ]
+  }
